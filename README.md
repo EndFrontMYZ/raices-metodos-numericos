@@ -36,5 +36,5 @@ Puedes ver el código fuente del programa aquí:
 
 ## 📄 Documento PDF
 
-Puedes ver o descargar el documento con la interfaz gráfica de Tkinter [aquí](Interfaz%20tkinter%20cálculo%20de%20raíces%20final.pdf).
+Puedes ver o descargar el documento con la interfaz gráfica de Tkinter [aquí](https://github.com/EndFrontMYZ/raices-metodos-numericos/raw/main/Interfaz%20tkinter%20cálculo%20de%20raíces%20final.pdf).
 

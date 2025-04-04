@@ -33,3 +33,8 @@ Puedes ver el video explicativo del funcionamiento de la aplicación en el sigui
 Puedes ver el código fuente del programa aquí:
 
 - 📄 [Método de Bisección, Falsa Posición y Newton-Raphson](Método%20de%20Biseccion,%20Falsa%20Posición%20y%20Newton-Raphson.py)
+
+## 📄 Documento PDF
+
+Puedes ver o descargar el documento con la interfaz gráfica de Tkinter [aquí](Interfaz%20tkinter%20cálculo%20de%20raíces%20final.pdf).
+

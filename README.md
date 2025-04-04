@@ -1,7 +1,5 @@
 # Raíces de Ecuaciones
 
-# Raíces de Ecuaciones
-
 Este es un proyecto para encontrar las raíces de ecuaciones usando tres métodos numéricos: **Bisección**, **Falsa Posición** y **Newton-Raphson**. La interfaz gráfica está hecha con Tkinter, lo que facilita la interacción con el usuario.
 
 ## Requisitos
@@ -26,3 +24,12 @@ Puedes ver el video explicativo del funcionamiento de la aplicación en el sigui
 
    ```bash
    pip install -r requirements.txt
+
+
+
+
+## 🔧 Código fuente
+
+Puedes ver el código fuente del programa aquí:
+
+- 📄 [Método de Bisección, Falsa Posición y Newton-Raphson](Método%20de%20Biseccion,%20Falsa%20Posición%20y%20Newton-Raphson.py)
